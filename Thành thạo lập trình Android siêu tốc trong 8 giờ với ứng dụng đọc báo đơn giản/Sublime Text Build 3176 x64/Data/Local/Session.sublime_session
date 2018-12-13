@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/xampp/htdocs/tintuc"
 	],
 	"last_version": 3176,
 	"last_window_id": 1,
@@ -15,10 +16,46 @@
 			{
 				"selected_items":
 				[
+					[
+						"end",
+						"endif"
+					],
+					[
+						"p",
+						"posts"
+					],
+					[
+						"session_d",
+						"session_destroy"
+					],
+					[
+						"session_u",
+						"session_unset"
+					],
+					[
+						"t",
+						"table\tTag"
+					],
+					[
+						"s",
+						"style\tAttr"
+					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"contents": "[\n\t{\n\t\t\"username\" : \"Nguyen \",\n\t\t\"email\" : \"nguyenminh070890\",\n\t\t\"website\" : \"tin24.com\",\n\t\t\"title\" : \"Học lập trình với JSON\"\n\t},\n\t{\n\t\t\"username\":\"Trang\",\n\t\t\"email\":\"Trang0875\",\n\t\t\"address\":\"Chợ Đồng Xuân\"\n\t},\n\t{\n\t\t\"username\":\"LongBacCan\",\n\t\t\"email\":\"LongBacCan110\",\n\t\t\"address\":\"Bến Xe Sông Mã\",\n\t\t\"Nghề\":\"Diễn Viên\"\n\t}\n]",
+					"file": "/C/Users/nguye/OneDrive/Desktop/information.json",
+					"file_size": 363,
+					"file_write_time": 131890729463713915,
+					"settings":
+					{
+						"buffer_size": 323,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -55,8 +92,19 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/xampp/htdocs/tintuc",
+				"/D/xampp/htdocs/tintuc/backend"
+			],
 			"file_history":
 			[
+				"/D/xampp/htdocs/tintuc/backend/index.php",
+				"/D/xampp/htdocs/tintuc/backend/logout.php",
+				"/D/xampp/htdocs/tintuc/backend/func.php",
+				"/D/JAVA/Android/Thành thạo lập trình Android siêu tốc trong 8 giờ với ứng dụng đọc báo đơn giản/Sublime Text Build 3176 x64/Data/Packages/User/Package Control.sublime-settings",
+				"/D/JAVA/Android/Thành thạo lập trình Android siêu tốc trong 8 giờ với ứng dụng đọc báo đơn giản/Sublime Text Build 3176 x64/Data/Packages/User/Emmet.sublime-settings",
+				"/D/JAVA/Android/Thành thạo lập trình Android siêu tốc trong 8 giờ với ứng dụng đọc báo đơn giản/Sublime Text Build 3176 x64/Data/Packages/Emmet/Emmet.sublime-settings"
 			],
 			"find":
 			{
@@ -88,11 +136,46 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\xampp\\htdocs\\tintuc"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/nguye/OneDrive/Desktop/information.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 323,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										323,
+										323
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -132,7 +215,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,811,552,272,1208",
+			"position": "0,0,1,-32000,-32000,-1,-1,1049,821,45,1876",
 			"project": "",
 			"replace":
 			{
@@ -174,7 +257,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 131.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
